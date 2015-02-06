@@ -33,3 +33,25 @@ Final Solution:
 
 The final solution will be based off of solution 2 just a bit better developed. The man will first travel in his boat with the parrot and take him to the midpoint land area, he will go back to get the cat and take him to the other side of the riverbank (goal 1 met) then he will go back and get the bag of seed and take it to the other side of the riverbank (goal 2 met) then he will go to the midpoint area to get the Parrot and take him to the other side of the riverbank (goal 3 met). This will get the man and his items to the other side safely.
 
+Current Situation 2:
+A prediction needs to be determined regarding the chances of selecting specific socks from a drawer in the dark.
+The goal is to select the least amount of socks but making sure you will definitely have at least one match.
+
+Constraints:
+1. There is no light that can be used to aid in the selection process
+2. At least 1 pair of socks must match
+Sub Goals:
+1. Avoid selecting too many socks
+2.Avoid selecting too few socks
+
+Solutions:
+A. 1.Pick out the total amount of different color socks then add 1
+B.1. Pick out all of the socks that are in the drawer
+B. 2. Pick out all of the socks that have the largest quantity
+
+Evaluation
+A. How many socks would you need to to get all of 1 color
+B. Add all the black brown and white socks together
+
+Final solution:
+A.
