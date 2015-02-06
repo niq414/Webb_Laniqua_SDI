@@ -54,4 +54,22 @@ A. How many socks would you need to to get all of 1 color
 B. Add all the black brown and white socks together
 
 Final solution:
-A.
+A.You would need to select 4 socks to guarantee a matching pair of socks.
+B. You would need to select at least 18 socks to guarantee a matching pair of socks.
+
+
+Current Situation 3:
+A girl is counting using her fingers in an unusual pattern on one hand and we need to determine the landing finger.
+
+Constraints:
+1. The girl is only using 1 hand to count on.
+2. The direction in which the girl uses her finger is not consistent each time she has reached the end of her hand and started again.
+
+Solutions:
+1. Using your own hand count in the method that the girl is counting to determine which finger the number will land on.
+2. Try to predict the difference/pattern that each finger makes from round to round.
+
+Both of theses solutions are time consuming but they will get us to our goal.
+
+Evaluate:
+
