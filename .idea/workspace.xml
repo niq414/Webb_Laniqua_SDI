@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a3c1ada-ed54-49d9-8211-de82e92c3211" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webb_Laniqua_ProblemSolving/Problem Sovlving Assignment" afterPath="$PROJECT_DIR$/Webb_Laniqua_ProblemSolving/Problem Sovlving Assignment" />
-    </list>
+    <list default="true" id="4a3c1ada-ed54-49d9-8211-de82e92c3211" name="Default" comment="" />
     <ignored path="Webb_Laniqua_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="Problem Sovlving Assignment" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Webb_Laniqua_ProblemSolving/Problem Sovlving Assignment">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94035786" vertical-offset="952" max-vertical-offset="1530">
-              <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.31411532" vertical-offset="952" max-vertical-offset="1530">
+              <caret line="61" column="104" selection-start-line="61" selection-start-column="104" selection-end-line="61" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -247,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Webb_Laniqua_ProblemSolving/Problem Sovlving Assignment">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94035786" vertical-offset="952" max-vertical-offset="1530">
-          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.31411532" vertical-offset="952" max-vertical-offset="1530">
+          <caret line="61" column="104" selection-start-line="61" selection-start-column="104" selection-end-line="61" selection-end-column="104" />
           <folding />
         </state>
       </provider>
