@@ -1,6 +1,6 @@
 //Laniqua Webb February 11, 2015 Expressions Assignment
 
-//This is calculator that will calculate the amount of number 2 pencils a school will need for standardized testing based on the amount of students in each grade level
+//This is calculator that will calculate the amount of pencils a school will need for standardized testing based on the amount of students in each grade level
 
 
 //Define the variables
@@ -22,6 +22,6 @@ var totalPencils = thirdGraders * 2 + fourthGraders * 3 + fifthGraders * 4;
 //Give the total amount of pencils needed
 console.log("You will need " + totalPencils + " for testing.");
 //Create an alert that tells the user the total amount needed for testing.
-alert("You will need " + totalPencils + " for testing.");
+alert("You will need " + totalPencils + " pencils for testing.");
 
-//I entered 20 for third graders, 30 for fourth graders and 25 for fifth graders. And the console gave me a total of 
+//I entered 20 for third graders, 30 for fourth graders and 25 for fifth graders. And the console gave me a total of 230
