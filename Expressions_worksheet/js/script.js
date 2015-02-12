@@ -62,8 +62,27 @@ var groceryBill4 = prompt("How much was spent for week 5?");
 var totalSpent = groceryBill[0] + groceryBill[1] + groceryBill[2] + groceryBill[3] + groceryBill[4];
 
 var averageSpent = totalSpent / 5;
-console.log("You have spent a total of $" + totalSpent + " on groceries over the past five weeks. That is an average of $" + averageSpent + " per week!")
+console.log("You have spent a total of $" + totalSpent + " on groceries over the past five weeks. That is an average of $" + averageSpent + " per week!");
 alert("You have spent a total of $" + totalSpent + " on groceries over the past five weeks. That is an average of $" + averageSpent + " per week!")
+
+
+//Discounts
+//Calculate the discounted price for an item with and without sales tax
+
+
+var originalPrice = 1;
+var discountPercent = 1;
+var winterBoots = 1;
+var salesTax = 1;
+
+var originalPrice = prompt("What is the original price?");
+var discountPercent = prompt("What is the discount percent?");
+var salesTax = prompt("How much is the sales tax?");
+
+var noTax = originalPrice * discountPercent
+var withTax = noTax + salesTax
+console.log("The total price of the item is " + noTax + " after tax the total comes to " + withTax);
+alert("The total price of the item is " + noTax + " after tax the total comes to " + withTax)
 
 
 
