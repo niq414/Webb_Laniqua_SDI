@@ -13,7 +13,7 @@ var fifthGraders = 4;
 //Prompts asks the user for the amount of students in each grade level
 
 var thirdGraders = prompt("How many Third Graders will be taking the test?");
-var fourthGraders = prompt("How many Fourth Graders will be taking the test? ");
+var fourthGraders = prompt("How many Fourth Graders will be taking the test?");
 var fifthGraders = prompt("How many Fifth Graders will be taking the test?");
 
 //The total amount of pencils needed for testing is determined by multiplying the number of students in each grade by the amount of pencils needed for that grade level
@@ -24,3 +24,4 @@ console.log("You will need " + totalPencils + " for testing.");
 //Create an alert that tells the user the total amount needed for testing.
 alert("You will need " + totalPencils + " for testing.");
 
+//I entered 20 for third graders, 30 for fourth graders and 25 for fifth graders. And the console gave me a total of 

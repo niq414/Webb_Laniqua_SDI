@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3c1ada-ed54-49d9-8211-de82e92c3211" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html" afterPath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" />
     </list>
     <ignored path="Webb_Laniqua_SDI.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="510">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.85714287" vertical-offset="15" max-vertical-offset="525">
+              <caret line="26" column="117" selection-start-line="26" selection-start-column="117" selection-end-line="26" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -315,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="510">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.85714287" vertical-offset="15" max-vertical-offset="525">
+          <caret line="26" column="117" selection-start-line="26" selection-start-column="117" selection-end-line="26" selection-end-column="117" />
           <folding />
         </state>
       </provider>
