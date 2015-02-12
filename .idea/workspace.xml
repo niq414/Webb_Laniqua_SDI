@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3c1ada-ed54-49d9-8211-de82e92c3211" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html" afterPath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" />
     </list>
     <ignored path="Webb_Laniqua_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21920668" vertical-offset="0" max-vertical-offset="479">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="510">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,8 +56,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Webb_Laniqua_ProblemSolving/Problem Sovlving Assignment" />
-        <option value="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" />
         <option value="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html" />
+        <option value="$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js" />
       </list>
     </option>
   </component>
@@ -64,8 +65,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="513" />
-    <option name="y" value="23" />
+    <option name="x" value="287" />
+    <option name="y" value="42" />
     <option name="width" value="1131" />
     <option name="height" value="600" />
   </component>
@@ -228,7 +229,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="513" y="23" width="1131" height="600" extended-state="0" />
+    <frame x="287" y="42" width="1131" height="600" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,18 +305,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/index.html">
+    <entry file="file://$PROJECT_DIR$/Webb_Laniqua_Epressions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21920668" vertical-offset="0" max-vertical-offset="479">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="510">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
