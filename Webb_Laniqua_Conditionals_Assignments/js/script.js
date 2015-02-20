@@ -15,7 +15,7 @@ var pointTotal = handBags * 5 + personalAccessories * 7 + clothingArticles * 10 
 var handBags = prompt("How many handbags were purchased?");
 var personalAccessories = prompt("How many personal accessories were purchased?");
 var clothingArticles = prompt("How many clothing articles were purchased?");
-var miscellaneousItems = prompt("Were any miscellaneous items purchased?");
+var miscellaneousItems = prompt("How many miscellaneous items were purchased?");
 
 //Determine how many pairs of shoes were purchased each quarter
 
@@ -29,5 +29,12 @@ var shoesPurchased3 = prompt("How many shoes were purchased in the fourth quarte
 var shoeTotal = shoesPurchased[0] + shoesPurchased[1] + shoesPurchased[2] + shoesPurchased[3];
 
 var shoeAverage = shoeTotal/4;
+console.log("You have purchased a total of " + shoeTotal + " pairs of shoes for the year. That is an average of " + shoeAverage + " shoes each quarter!")
+alert("You have purchased a total of " + shoeTotal + " for the year. That is an average of " + shoeAverage + " shoes each quarter!")
 
-console.log("You have purchased a total of " +shoeTotal+ " for the year. That is an average of " +shoeAverage+ " shoes each quarter!")
+var shoePoints = 20;
+
+var rewardPoints = pointTotal + shoeTotal * 5
+console.log ("You have a earned a total of " + rewardPoints + " points!")
+
+if(rewardPoints >= 500)
