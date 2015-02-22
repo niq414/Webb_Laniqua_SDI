@@ -37,4 +37,9 @@ var shoePoints = 20;
 var rewardPoints = pointTotal + shoeTotal * 5
 console.log ("You have a earned a total of " + rewardPoints + " points!")
 
-if(rewardPoints >= 500)
+if(rewardPoints >= 500){"You have earned a surprise gift card!"
+}else{"Thank you for shopping with us this year"
+}
+if(rewardPoints >= 1000){"You have earned a free item!"
+}
+if(rewardPoints >= 1000 && shoeAverage > 2){"You have earned a surprise gift card and a free item"}
